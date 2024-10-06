@@ -1,0 +1,62 @@
+package test;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int x; // Declare the variable
+		
+		x=2; 
+		// put the value 2 in bucket list and also assigns the value to the variable
+		
+		//x+2 =4
+		//x*2=2
+		//x/2=1
+		
+		System.out.println(x+2);
+		
+		System.out.println(x-1);
+		
+		System.out.println(x*2);
+		
+		System.out.println(x/2);
+		
+		
+		//+,-,*,/ is the operators in java 
+		
+		
+		int y;
+		
+		y=1;
+				
+		//y+1=7
+	    //y-1=5
+		//y*6=36
+		//y/3=2
+		
+		System.out.println(y+1);
+		
+		System.out.println(y-1);
+		
+		System.out.println(y*6);
+		
+		System.out.println(y/3);
+		
+		// here also +,-,*,/ is the operators  
+		
+		
+		System.out.println(x+y);
+		
+	    System.out.println(x-y);
+	    
+	    System.out.println(x*y);
+	    
+	    System.out.println(x/y);
+		
+		
+		
+ 
+	}
+
+}

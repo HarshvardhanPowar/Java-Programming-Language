@@ -6,7 +6,7 @@ public class Variables {
 		// TODO Auto-generated method stub
 		
 		int x; // Declare the variable
-		
+		 // int is called as a data type
 		x=2; 
 		// put the value 2 in bucket list and also assigns the value to the variable
 		

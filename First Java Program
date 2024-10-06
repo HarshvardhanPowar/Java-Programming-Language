@@ -1,0 +1,15 @@
+// This my First java program and this program i learn how to write first java program and all that stuff
+
+package test;
+
+public class Testing2 {
+
+// Java Program is always write in Public static void main method
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("Hello Java Programming Language");
+// Any thing that can write in System.out.println(); that can print on console or terminater
+	}
+
+}

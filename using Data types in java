@@ -1,0 +1,39 @@
+package test;
+
+public class VariablesContinued {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      
+	int x=10;
+	
+	// int data type only store value up to -2^32 to 2^32 which is 32 bits
+	
+	long y=122345672345678L;
+	
+	// for very long variables for example 1234567890123423456 in java long datatype is use 
+	//  the size of long datatype is 64 bits which is corresponds to -2^63 to 2^63
+	// if variables is to long the L letter is alloted after that variable in long datatype
+	// long also takes more memory 
+	
+	short z=100;
+	
+	// short data type has memory of 16 bits which is correspods to -2^15 to 2^15
+	// it takes less space 
+	
+	byte num = 100;
+	// byte datatype has memory of only 8 bits which is corrsponds to -2^7 to 2^7
+	// byte has even more samller that short
+	
+	double num1=34.45678;
+	
+	boolean H=true;
+	// boolean datatype is used for true or false
+	
+	char character='H';
+    // Char datatype is used to store character in java 	
+	
+	
+	}
+
+}

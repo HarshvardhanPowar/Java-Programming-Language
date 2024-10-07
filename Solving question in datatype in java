@@ -1,0 +1,22 @@
+package test;
+
+public class QuestioninDatatypes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Write a Java program to convert temperature from  Celsius to Fahrenheit degrees.
+
+	      float celsius;
+	      float Fahrenheit;
+	      
+	      celsius=40;
+	      
+	      Fahrenheit=celsius*(9/5)+32;
+	 
+	      
+	      System.out.println("Temperature in Fahrenheit is: "+Fahrenheit);
+	      
+	}
+	}
+

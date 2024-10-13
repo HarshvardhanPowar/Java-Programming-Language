@@ -1,0 +1,16 @@
+package test;
+
+public class MultilineComment {
+
+	public static void main(String[] args) {
+		// Multiline comment starts with /* and ends with */ 
+		/*This 
+         * is 
+         * a
+         * Multiline 
+         * Comment
+         */
+        System.out.println("Hello World!!!");
+	}
+
+}

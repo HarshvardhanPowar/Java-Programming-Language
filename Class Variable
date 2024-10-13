@@ -1,0 +1,15 @@
+package test;
+
+public class ClassorStaticVariable  {
+
+	public static void main(String[] args) {
+
+      String name;
+     int marks;
+
+    
+        name = "Harshvardhan";
+        marks = 95;
+        System.out.println(name + " Scored " + marks + "%.");
+    }
+}

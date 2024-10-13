@@ -1,0 +1,19 @@
+package test;
+
+public class InstanceVariables {
+
+	public static void main(String[] args) {
+		
+
+		  String name = "Harshvardhan";
+		   int marks = 95;
+
+		    
+		     System.out.println(name + " Scored " + marks + "%.");
+		    
+		   
+
+		   
+	}
+
+}

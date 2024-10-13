@@ -1,0 +1,14 @@
+package test;
+
+public class LocalVariable {
+
+	public static void main(String[] args) {
+		
+		
+	        String name = "Harsh";
+	        int marks = 95;
+	        System.out.println(name + " Scored " + marks + "%.");
+
+	}
+
+}
